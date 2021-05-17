@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tess
 - 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning laravel
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on front-developers
 - 📫 How to reach me on linkedIn Teresia Wanjiku
 
